@@ -1,0 +1,18 @@
+Instructions for Project 
+
+GitHub Repository:
+https://github.com/eleftheriaa/American-Sign-Language-Detection
+
+Contents:
+- The dataset (.csv files) is included in the archive folder.
+- The main program is located inside the ‘nn’ folder.
+- The augmentation procedure used for the final results is implemented in the augmentation.ipynb file.
+
+Model Tuning Order:
+1. Tuned the hidden layer size (hl_tuning.ipynb).
+2. Tuned the learning rate (lr_tuning.ipynb).
+3. Tuned the regularization parameter (λ) (lambda_tuning.ipynb).
+4. Tuned the maximum number of iterations (max_iter.ipynb).
+
+This summarizes the structure of the archive and the workflow followed
+during model development.

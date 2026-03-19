@@ -23,3 +23,6 @@ The project explores two different machine learning approaches:
 
 2. **Neural Network (MLP with one hidden layer)**  
    Nonlinear model capable of learning more complex patterns.
+
+
+
