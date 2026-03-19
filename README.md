@@ -9,6 +9,7 @@ The goal of this project is to apply machine learning techniques to a supervised
 Dataset: https://www.kaggle.com/datasets/datamunge/sign-language-mnist/data
 
 The dataset consists of 28×28 grayscale images representing American Sign Language (ASL) hand gestures.
+<img src="archive\amer_sign3.png" width="700"> 
 
 ## Objective
 
@@ -24,5 +25,4 @@ The project explores two different machine learning approaches:
 2. **Neural Network (MLP with one hidden layer)**  
    Nonlinear model capable of learning more complex patterns.
 
-<img src="archive\amer_sign2.png" width="1000"> 
 
